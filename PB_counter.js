@@ -51,6 +51,19 @@ else {
     var skip=false;
 }
 var langShinko = {
+    "cs_CZ": {
+        "Purchase": "Koupě", //bought pp, 3rd cell
+        "Premium Exchange": "Prémiový trh", //purchases from exchange 3rd cell
+        "Points redeemed": "Nasazen", //reduction building time or account manager/premium account/LA or events, 3rd cell
+        "Transfer": "Převod ", //sold to pp exchange 3rd cell
+        "Sold": "prodej", //text in the last cell when selling res to pp exchange last cell
+        "giftTo": "to: ", //gift to last cell
+        "giftFrom": "from: ", //gift from last cell
+        "Free premium points": "Prémiové body zdarma", //yearly reward
+        "Endgame reward": "Odměna za konec světa", //world reward
+        "Manually": "Manually", // Manual refund received
+        "Withdrawn": "Staženo " // refund received
+    },
     "en_DK": {
         "Purchase": "Purchase", //bought pp, 3rd cell
         "Premium Exchange": "Premium Exchange", //purchases from exchange 3rd cell
