@@ -55,7 +55,7 @@ var langShinko = {
         "Purchase": "Koupě", //bought pp, 3rd cell
         "Premium Exchange": "Prémiový trh", //purchases from exchange 3rd cell
         "Points redeemed": "Nasazen", //reduction building time or account manager/premium account/LA or events, 3rd cell
-        "Transfer": "Převod ", //sold to pp exchange 3rd cell
+        "Transfer": "Převod", //sold to pp exchange 3rd cell
         "Sold": "Prémiový trh:", //text in the last cell when selling res to pp exchange last cell
         "giftTo": "to: ", //gift to last cell
         "giftFrom": "from: ", //gift from last cell
